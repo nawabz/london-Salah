@@ -1,4 +1,4 @@
-# london-Salah (site is live at https://nawabz.github.io/london-Salah/)
+# london-Salah 
 najaf.org and rasoolaladham.com salah times
 
 ever wondered why there are different times for prayer in London, others need to take percaution. 
